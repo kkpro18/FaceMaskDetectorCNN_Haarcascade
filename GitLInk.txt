@@ -1,0 +1,10 @@
+https://github.com/Karan-Malik/FaceMaskDetectorAdvanced
+
+@misc{malik2023facemaskdetectoradvanced,
+  author = {Malik, Karan},
+  title = {FaceMaskDetectorAdvanced},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  url = {https://github.com/Karan-Malik/FaceMaskDetectorAdvanced}
+}
