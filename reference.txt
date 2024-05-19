@@ -1,3 +1,5 @@
+This program is inspired by Karan Malik's Repo:
+
 https://github.com/Karan-Malik/FaceMaskDetectorAdvanced
 
 @misc{malik2023facemaskdetectoradvanced,
