@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b93a8dfc-b489-49ea-95b8-01d84115e0d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b93a8dfc-b489-49ea-95b8-01d84115e0d5" name="Changes" comment="Renamed file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitLInk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reference.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +69,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716135203586</updated>
-      <workItem from="1716135209334" duration="921000" />
+      <workItem from="1716135209334" duration="1575000" />
     </task>
+    <task id="LOCAL-00001" summary="Renamed file">
+      <option name="closed" value="true" />
+      <created>1716136179766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716136179766</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Renamed file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed file" />
   </component>
 </project>
